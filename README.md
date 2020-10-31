@@ -2,6 +2,15 @@
 Just for fun. and also you can practice elif of PYTHON.
 works like this.
 
+first it will ask you to input a word, that can maybe your name.
+second, it will show your name with a HashTag symbol. individually.
+
+
+the code is written in python, and you can PR and learn.
+
+
+//code begins...
+
 ime = input("Enter your name: \n\n")
 
 # just for fun
